@@ -1,3 +1,4 @@
+#test
 from collections import namedtuple
 from games import (Game)
 
